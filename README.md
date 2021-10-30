@@ -17,9 +17,9 @@
 
 ## Antes de iniciar
 
-Crie um Fork desse projeto. Siga esse [tutorial](https://guides.github.com/activities/forking/).
-Após o fork, clone o repositório criado para o seu computador.
-Não se esqueça de rodar `npm instal`.
+- Crie um Fork desse projeto. Siga esse [tutorial](https://guides.github.com/activities/forking/).
+- Após o fork, clone o repositório criado para o seu computador.
+- Não se esqueça de rodar `npm instal`.
 
 ---
 
